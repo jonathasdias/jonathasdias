@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonathasdias
-- 👀 I’m interested in working in the front end web development area.
-- 🌱 I’m currently learning ReactJs, because I already have a good knowledge of html, css and javascript.
+- 👀 Tenho interesse em trabalhar na área de desenvolvimento front-end web.
+- 🌱 Atualmente estou aprimorando meus conhecimentos em ReactJs e tailwindcss, pois já tenho um bom conhecimento de html, css e javascript.
 
 <!---
 jonathasdias/jonathasdias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
