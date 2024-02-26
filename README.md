@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonathasdias
+- 👋 Olá, eu sou @jonathasdias.
 - 👀 Tenho interesse em trabalhar na área de desenvolvimento front-end web.
 - 🌱 Atualmente estou aprimorando meus conhecimentos em ReactJs e tailwindcss, pois já tenho um bom conhecimento de html, css e javascript.
 
