@@ -4,7 +4,7 @@
 - 🔥 Atualmente estou aprimorando meus conhecimentos em ReactJs e tailwindcss, pois já possuo bons conhecimentos de html, css e javascript.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathasdias&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="148" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jonathasdias&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="148" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathasdias&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="148" alt="languages graph"  />
 </div>
 
