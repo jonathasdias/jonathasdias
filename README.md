@@ -24,7 +24,7 @@
 
 <h2 align="left">Habilidades</h2>
 
-<h3 align="left">Linguagens de programação</h3>
+<h3 align="left">Linguagens</h3>
 
 ###
 
@@ -45,6 +45,8 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="35" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="35" alt="npm logo"  />
@@ -52,6 +54,8 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=next" height="35" alt="nextjs logo"  />
 </div>
 
 ###
