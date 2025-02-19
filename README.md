@@ -1,7 +1,8 @@
 # 👋 Olá, sou @jonathasdias.
   
 - 💻 Tenho interesse em trabalhar na área de desenvolvimento web front-end.
-- 🔥 Atualmente estou aprimorando meus conhecimentos em ReactJs e tailwindcss, pois já possuo bons conhecimentos de html, css e javascript.
+- 📚 Graduado em Análise e desenvolvimento de sistemas.
+- 🔥 Atualmente estou aprimorando meus conhecimentos em nextjs e testes unitários, já possuo conhecimentos solidos nas linguagens, Ferramentas e frameworks listados abaixo.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jonathasdias&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="148" alt="stats graph"  />
